@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! 👋 I'm Priyanshi Gupta
 
-<!--
-**Er-Priyanshi-Gupta/Er-Priyanshi-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Animation](header_animation.gif)
 
-Here are some ideas to get you started:
+I'm a passionate frontend developer with a knack for crafting beautiful and intuitive user experiences. Currently pursuing the path of a software engineer, I'm constantly expanding my skills and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React, Vue.js
+- **Tools/Platforms:** Git, GitHub Pages
+- **Design:** Figma, Adobe XD
+
+## Projects
+
+Feel free to explore my repositories for more projects and contributions!
+
+## Let's Connect
+
+📫 Reach out to me via [email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/)!
+
+Let's collaborate and build something amazing together!
+
