@@ -7,7 +7,8 @@ I'm a passionate frontend developer with a knack for crafting beautiful and intu
 ## Skills
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React, Vue.js
+- **Programming Languages:** C, CPP, Java, Python
+- **Frameworks/Libraries:** React, NodeJs, NextJs, Vue.js
 - **Tools/Platforms:** Git, GitHub Pages
 - **Design:** Figma, Adobe XD
 
