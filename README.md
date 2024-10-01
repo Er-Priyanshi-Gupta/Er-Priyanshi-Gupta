@@ -8,7 +8,7 @@ I'm a passionate frontend developer with a knack for crafting beautiful and intu
 
 - **Languages:** HTML, CSS, JavaScript
 - **Programming Languages:** C, CPP, Java, Python
-- **Frameworks/Libraries:** React, NodeJs, NextJs, Vue.js, Kivy, Pandas, Numpy, Matplotlib
+- **Frameworks/Libraries:** React, NodeJs, NextJs
 - **Tools/Platforms:** Git, GitHub Pages
 - **Design:** Figma, Adobe XD
 
